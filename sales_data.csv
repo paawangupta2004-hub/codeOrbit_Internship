@@ -1,0 +1,7 @@
+OrderID,Product,Category,Quantity,Price,Region
+101,Laptop,Electronics,2,50000,Delhi
+102,Mouse,Accessories,5,500,Delhi
+103,Keyboard,Accessories,,1200,Mumbai
+104,Laptop,Electronics,1,50000,Delhi
+104,Laptop,Electronics,1,50000,Delhi
+105,Phone,Electronics,3,15000,
