@@ -1,0 +1,25 @@
+Task 2: Sales Data Analysis using Pandas
+
+Objective
+
+To analyze sales data using Python and Pandas.
+
+Method
+
+- Loaded the sales dataset using Pandas.
+- Calculated total sales and average order value.
+- Identified top-selling products by quantity.
+- Summarized sales by category and region.
+- Exported the results to a CSV file.
+
+Findings
+
+- Total sales: ₹296,900
+- Average order value: ₹29,690
+- Top-selling product by quantity: Mouse
+- Highest-sales category: Electronics
+- Highest-sales region: Delhi
+
+Conclusion
+
+Pandas helped summarize sales performance and identify leading products, categories, and regions.

@@ -1,0 +1,11 @@
+OrderID,Date,Product,Category,Quantity,Price,Region,TotalSales
+1001,05-01-2026,Laptop,Electronics,2,50000,Delhi,100000
+1002,06-01-2026,Mouse,Accessories,5,500,Delhi,2500
+1003,07-01-2026,Keyboard,Accessories,3,1200,Mumbai,3600
+1004,08-01-2026,Phone,Electronics,4,15000,Mumbai,60000
+1005,09-01-2026,Laptop,Electronics,1,50000,Delhi,50000
+1006,10-01-2026,Headphones,Accessories,6,2000,Pune,12000
+1007,11-01-2026,Phone,Electronics,2,15000,Delhi,30000
+1008,12-01-2026,Mouse,Accessories,8,500,Pune,4000
+1009,13-01-2026,Keyboard,Accessories,4,1200,Delhi,4800
+1010,14-01-2026,Monitor,Electronics,3,10000,Mumbai,30000
